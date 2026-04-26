@@ -199,7 +199,7 @@ python test_baseline_ear_mar.py --show
 
 ### 8.5 边缘配置
 - 如需在边缘配置，可以修改模型推理部分，在华为Atlas边缘设备部署推理速度约为25FPS，基本满足实时监测要求；
-- 权重文件已上传，参考“weights/*.om"
+- 权重文件已上传，参考branch “weights/*.om"或者”*.pt“
 - 修改方法可参考https://www.hiascend.com/document/detail/zh/Atlas200IDKA2DeveloperKit/23.0.RC2/Getting%20Started%20with%20Application%20Development/gswaad/gswaad_0002.html
 - 本项目未上传边缘设备部署的代码，如有需要可以QQ联系：2052329330
 
