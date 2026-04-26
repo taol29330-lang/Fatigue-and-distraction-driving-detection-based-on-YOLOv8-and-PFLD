@@ -1,4 +1,4 @@
-<img width="422" height="91" alt="image" src="https://github.com/user-attachments/assets/21e1101a-16ae-4cfd-85ec-f24fa03d286a" /># Fatigue-and-distraction-driving-detection-based-on-YOLOv8-and-PFLD
+# Fatigue-and-distraction-driving-detection-based-on-YOLOv8-and-PFLD
 This is a project on fatigue driving and distracted behavior detection, using YOLOv8 and PFLD models, which can be deployed on the domestically produced Huawei Atlas 200 edge device.
 
 
@@ -14,6 +14,7 @@ This is a project on fatigue driving and distracted behavior detection, using YO
 项目当前以 PySide6 桌面应用为主入口。
 
 ## 1. 功能概览
+<img width="721" height="374" alt="image" src="https://github.com/user-attachments/assets/a4bb3509-9748-4b7f-81b3-231d9b8b3fcf" />
 
 ### 1.1 检测能力
 
@@ -25,6 +26,7 @@ This is a project on fatigue driving and distracted behavior detection, using YO
   - PERCLOS（滑动窗口）
 
 ### 1.2 疲劳判定逻辑
+<img width="702" height="225" alt="image" src="https://github.com/user-attachments/assets/df1c91da-ab3b-4c7e-ae14-73fe1b8b53c1" />
 
 - 闭眼判定：EAR < EAR_THRESH
 - 张嘴判定：MAR > MAR_THRESH
@@ -114,6 +116,7 @@ pip install numpy opencv-python onnxruntime ultralytics PySide6
 ```bash
 python main.py
 ```
+<img width="2065" height="1262" alt="image" src="https://github.com/user-attachments/assets/3a5489df-9407-4350-8bb9-fc1307160722" />
 
 启动后在菜单中可执行：
 
