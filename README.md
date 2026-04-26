@@ -1,4 +1,4 @@
-# Fatigue-and-distraction-driving-detection-based-on-YOLOv8-and-PFLD
+<img width="422" height="91" alt="image" src="https://github.com/user-attachments/assets/21e1101a-16ae-4cfd-85ec-f24fa03d286a" /># Fatigue-and-distraction-driving-detection-based-on-YOLOv8-and-PFLD
 This is a project on fatigue driving and distracted behavior detection, using YOLOv8 and PFLD models, which can be deployed on the domestically produced Huawei Atlas 200 edge device.
 
 
@@ -213,8 +213,11 @@ python test_baseline_ear_mar.py --show
 
 
 参考资料如下：
+
 https://www.hiascend.com/developer/blog/details/0215172312608801248
+
 庞 夏 君 . 基 于 深 度 学 习 的 驾 驶 员 疲 劳 和 分 心 状 态 识 别 算 法 研 究 [D]. 广 西 民 族 大 学,2024.DOI:10.27035/d.cnki.ggxmc.2024.000578.
+
 PFLD权重文件：https://gitee.com/link?target=https%3A%2F%2Fmindx.sdk.obs.cn-north-4.myhuaweicloud.com%2Fmindxsdk-referenceapps%2520%2Fcontrib%2FFatigueDrivingRecognition%2Fmodel.zip
 
 特别感谢以上作者的公开资料，如有侵权可联系删除。
